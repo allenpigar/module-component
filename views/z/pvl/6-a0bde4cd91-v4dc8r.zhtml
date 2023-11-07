@@ -1,0 +1,14 @@
+<div className={styles.pvlRoot}>
+	<h1 class="pvlHeader">{{this.title}}</h1>
+	<br>
+	<hr>
+	<br>
+	<div style="display:flex" className={styles.pvlRow}>
+		<div style="flex:1" className={styles.pvlColumn}>
+			<h1 class="pvlHeader">{{this.title}}</h1>
+		</div>
+		<div style="flex:1" className={styles.pvlColumn}>
+			{{ include component-snippet }}
+		</div>
+	</div>
+</div>

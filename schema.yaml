@@ -1,0 +1,30 @@
+
+  - description: null
+    label: "Homepage"
+    name: "homepage"
+    sort: 1
+    listed: true
+    hasRoute: true
+    showAsTable: false
+    parent: null
+    view: "/views/homepage.tpl"
+    content: "/content/homepage.yaml"
+    fields:
+      - name: "title"
+        label: "title"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "display_component"
+        label: "Display Component"
+        description: ""
+        datatype: "one_to_one"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true

@@ -1,0 +1,39 @@
+
+  - id: "434f-c2ab-58bb"
+    web:
+      metaDescription: ""
+      metaTitle: "Another Page"
+      metaLinkText: "Another Page"
+      metaKeywords: null
+      pathPart: "another-page"
+      path: "/another-page/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 103
+      listed: true
+    data:
+      display_component: "7-ace78ed6b6-w567m6"
+      title: "Another Page"
+  - id: "f3c3-3e7c-11ce"
+    web:
+      metaDescription: ""
+      metaTitle: "Homepage"
+      metaLinkText: "Homepage"
+      metaKeywords: null
+      pathPart: "zesty_home"
+      path: "/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 0
+      listed: true
+    data:
+      display_component: "7-c8fef0bdec-5thvcv"
+      title: "Welcome to components!"
