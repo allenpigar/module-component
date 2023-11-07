@@ -1,14 +1,14 @@
 
   - description: null
-    label: "Homepage"
-    name: "homepage"
+    label: "Homepage2"
+    name: "homepage2"
     sort: 1
     listed: true
     hasRoute: true
     showAsTable: false
     parent: null
-    view: "/views/homepage.tpl"
-    content: "/content/homepage.yaml"
+    view: "/views/homepage2.tpl"
+    content: "/content/homepage2.yaml"
     fields:
       - name: "title"
         label: "title"
